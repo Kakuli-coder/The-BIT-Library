@@ -1,0 +1,25 @@
+.navbar-brand {
+    font-family: 'Courgette', cursive;
+    letter-spacing: 0.2 rem;
+}
+
+h1 {
+    font-family: 'Courgette', cursive;
+}
+
+h3 {
+    font-family: 'Courgette', cursive;
+}
+
+
+body {
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+};
+
+.scrollBar {
+    height: 270px;
+    overflow: auto;
+}
